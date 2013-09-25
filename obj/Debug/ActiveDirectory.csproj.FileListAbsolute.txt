@@ -1,0 +1,5 @@
+C:\Projetos\ActiveDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ActiveDirectory\bin\Debug\ActiveDirectory.dll
+C:\Projetos\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+C:\Projetos\ActiveDirectory\obj\Debug\ActiveDirectory.dll
+C:\Projetos\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
